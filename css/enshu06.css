@@ -1,0 +1,16 @@
+h1{
+    color:aqua;
+    font-size: 40px;
+    font-weight:normal;
+    font-family: "arial black";
+    text-align:center;
+    background-color: darkblue;
+}
+
+p{
+    background-color: darkblue;
+}
+
+body{
+    background-image: url(../images/yozora2.jpg);
+}

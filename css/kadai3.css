@@ -1,0 +1,23 @@
+h1{
+    color:beige;
+    text-align:center;
+    background-color:red;
+}
+
+body{
+    background-image:url(../images/mokume.jpg);
+}
+
+h2{
+    color:black;
+    text-align:center;
+    background-color:green;
+}
+
+h4{
+    color:aqua;
+}
+
+p{
+    color:Orange;
+}
