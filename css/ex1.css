@@ -1,0 +1,27 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:royalblue;
+}
+
+body{
+    background-image:url(../images/ao2.jpg);
+}
+
+h2{
+    color:white;
+    text-align:center;
+    background-color:cornflowerblue;
+}
+
+table{
+    background-color:deepskyblue;
+}
+
+address{
+    color:white;
+}
+
+ol{
+    background-image:url(../images/wagara2.jpg);
+}
