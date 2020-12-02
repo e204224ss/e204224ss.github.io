@@ -1,0 +1,39 @@
+body{
+    background-image:url(../images/mokume.jpg);
+}
+
+p.p01{
+    color:white;
+}
+
+h1{
+    text-align:center;
+}
+
+h1.h01{
+    color:black;
+    background-color:mediumseagreen;
+}
+
+h1.h02{
+    color:blue;
+    background-color:palegreen;
+}
+
+h2{
+    text-align:center;
+}
+
+h2.h01{
+    color:white;
+    background-color:green;
+}
+
+h2.h02{
+    color:aqua;
+    background-color:darkgreen;
+}
+
+a{
+    background-color:silver;
+}

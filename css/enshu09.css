@@ -1,0 +1,21 @@
+.bluecolor{
+    color:blue;
+}
+
+h1#red{
+    font-family:impact;
+    font-size:60px;
+    color:red; 
+}
+
+h1:hover{
+    background-color:aqua;
+}
+
+h2:hover{
+    background-color:green;
+}
+
+p:hover{
+    background-color:red;
+}
