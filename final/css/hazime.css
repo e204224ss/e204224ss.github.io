@@ -1,0 +1,25 @@
+body{
+    background-image:url(../images/01.jpeg);
+    background-size:cover;
+}
+
+div.T{
+    width:1000px;
+    height:70px;
+    background-color:aquamarine;
+    color:deeppink;
+    margin-bottom:20px;
+    font-size:50px;
+    text-align:center;
+    margin:auto
+}
+
+div.Cen{
+    width:1000px;
+    height:270px;
+    text-align:center;
+    background-color:snow;
+    color:black;
+    font-size:20px;
+    margin:auto
+}

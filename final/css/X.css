@@ -1,0 +1,89 @@
+body{
+    background-image:url(../images/01.jpeg);
+    background-size:cover;
+}
+
+div.T{
+    width:1000px;
+    height:70px;
+    background-color:aquamarine;
+    color:deeppink;
+    margin-bottom:20px;
+    font-size:50px;
+    text-align:center;
+    margin:auto
+}
+
+div.Con{
+    width:1000px;
+    text-align:center;
+    background-color:snow;
+    font-size:20px;
+    margin:0px 0px 20px;
+    margin:auto
+}
+
+.red{
+    color:red;
+}
+
+.blue{
+    color:blue;
+}
+
+div.ryu{
+    width:298px;
+    height:424px;
+    background-image:url(../images/ryu.jpg);
+    background-repeat:no-repeat;
+    margin:0px 350px 0px;
+}
+
+div.bio{
+    width:456px;
+    height:456px;    
+    background-image:url(../images/bio.jpg);
+    background-repeat:no-repeat;
+    margin:0px 271px 0px;
+}
+
+div.king{
+    width:575px;
+    height:750px;
+    background-image:url(../images/king.jpg);
+    background-repeat:no-repeat;
+    margin:0px 212px 0px;
+}
+
+div.HIT{
+    width:640px;
+    height:360px;
+    background-image:url(../images/hitman.jpg);
+    background-repeat:no-repeat;
+    margin:0px 180px 0px;
+}
+
+div.ancha{
+    width:431px;
+    height:500px;
+    background-image:url(../images/ancha.jpg);
+    background-repeat:no-repeat;
+    margin:0px 284px 0px;
+}
+
+div.Und{
+    width:640px;
+    height:379px;
+    background-image:url(../images/Und.jpg);
+    background-repeat:no-repeat;
+    margin:0px 180px 0px;
+}
+
+div.Cen{
+    width:1000px;
+    height:500px;
+    text-align:center;
+    color:black;
+    font-size:20px;
+    margin:auto
+}
